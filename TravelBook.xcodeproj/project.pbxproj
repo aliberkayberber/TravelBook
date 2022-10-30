@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		DD0B414C290EFB4D0074D6CE /* ListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD0B414B290EFB4D0074D6CE /* ListViewController.swift */; };
 		DD31EBDE2908672B001DF7A2 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD31EBDD2908672B001DF7A2 /* AppDelegate.swift */; };
 		DD31EBE02908672B001DF7A2 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD31EBDF2908672B001DF7A2 /* SceneDelegate.swift */; };
 		DD31EBE22908672B001DF7A2 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD31EBE12908672B001DF7A2 /* ViewController.swift */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		DD0B414B290EFB4D0074D6CE /* ListViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListViewController.swift; sourceTree = "<group>"; };
 		DD31EBDA2908672B001DF7A2 /* TravelBook.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TravelBook.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		DD31EBDD2908672B001DF7A2 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		DD31EBDF2908672B001DF7A2 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -66,6 +68,7 @@
 				DD31EBEB2908672C001DF7A2 /* LaunchScreen.storyboard */,
 				DD31EBEE2908672C001DF7A2 /* Info.plist */,
 				DD31EBE62908672B001DF7A2 /* TravelBook.xcdatamodeld */,
+				DD0B414B290EFB4D0074D6CE /* ListViewController.swift */,
 			);
 			path = TravelBook;
 			sourceTree = "<group>";
@@ -144,6 +147,7 @@
 				DD31EBE82908672B001DF7A2 /* TravelBook.xcdatamodeld in Sources */,
 				DD31EBE22908672B001DF7A2 /* ViewController.swift in Sources */,
 				DD31EBDE2908672B001DF7A2 /* AppDelegate.swift in Sources */,
+				DD0B414C290EFB4D0074D6CE /* ListViewController.swift in Sources */,
 				DD31EBE02908672B001DF7A2 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
